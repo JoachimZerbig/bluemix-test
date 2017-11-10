@@ -2,4 +2,4 @@ applications:
 - name: sharp-saha
   memory: 128M
   host: sharp-saha
-buildpack: staticfile_buildpack
+  buildpack: staticfile_buildpack
